@@ -17,7 +17,7 @@
 ---
 # Install Guide
 1. Clone the repo with `git clone https://github.com/CremBluRay/ASUS-ROG-GL552VW-HACKINTOSH.git`
-2. Use Unibeast to make a usb install drive
+2. Use Unibeast to make a usb install drive (Replace the CLOVER and BOOT folders on the EFI partition of the drive with the folders from the repo).
 3. Boot from the usb install drive
 4. Use the arrow keys to select `Mac OS install from Install Mac OS` and press `Enter`
 5. When the installer loads, select `Disk Utility`
